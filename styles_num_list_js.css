@@ -1,0 +1,31 @@
+#list-top li{
+	list-style: none;
+	display: inline;
+}
+
+#list-left li {
+	list-style: none;
+}
+
+#display-container {
+	height: 500px;
+	width: 500px;
+	position: absolute;
+	top: 130px;
+	left: 148px;
+	border: 3px solid blue;
+}
+
+#list-right-bottom {
+	list-style: none;
+	float: right;
+	position: absolute;
+	top: 382px;
+	left: 360px;
+}
+
+.list-image img {
+	height: 100px;
+	width: 100px;
+}
+
